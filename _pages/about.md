@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at <a href='#'>KITECH</a>. Robotics & Autonomous Driving
+subtitle: Researcher at <a href="https://www.kitech.re.kr">KITECH</a> . Robotics & Autonomous Driving
 
 profile:
   align: right
