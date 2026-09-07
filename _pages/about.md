@@ -6,7 +6,7 @@ subtitle: Researcher at <a href="https://www.kitech.re.kr">KITECH</a> . Robotics
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: KakaoTalk_20260904_140725833 (1).jpg
   image_circular: false # crops the image to make it circular
  
 
