@@ -31,3 +31,13 @@ and I am currently a research intern at KITECH.
 My interests lie in autonomous driving and vision-language navigation for
 robots — teaching a robot to follow instructions expressed in natural
 language and act on them in a physical space.
+
+
+<p>
+  <a href="https://github.com/사용자아이디" target="_blank" rel="noopener noreferrer" style="margin-right: 15px; text-decoration: none;">
+    <i class="fa-brands fa-github fa-2x"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/사용자아이디" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <i class="fa-brands fa-linkedin fa-2x"></i>
+  </a>
+</p>
