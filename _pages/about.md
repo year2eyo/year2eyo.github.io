@@ -30,9 +30,4 @@ and I am currently a research intern at KITECH.
 
 My interests lie in autonomous driving and vision-language navigation for
 robots — teaching a robot to follow instructions expressed in natural
-language and act on them in a physical space, rather than in a fixed,
-pre-mapped route.
-
-### Contact & Links
-* [GitHub](https://github.com/year2eyo)
-* [LinkedIn](https://www.linkedin.com/in/본인_링크드인_아이디)
+language and act on them in a physical space.
