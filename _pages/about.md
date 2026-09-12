@@ -37,8 +37,7 @@ language and act on them in a physical space.
   <a href="https://github.com/year2eyo" target="_blank" rel="noopener noreferrer" style="margin-right: 15px; text-decoration: none;">
     <i class="fa-brands fa-github fa-2x"></i>
   </a>
-  <a href="https://www.linkedin.com/in/
-year2eyo-9483a0354" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/애리-강-9483a0354" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <i class="fa-brands fa-linkedin fa-2x"></i>
   </a>
 </p>
